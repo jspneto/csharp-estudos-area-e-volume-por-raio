@@ -39,6 +39,7 @@ Além disso, o programa deve informar o valor de PI utilizado nos cálculos, exi
 
 - [**v0.1**][1] — Métodos estáticos na classe Program
 - [**v0.2**][2] — Classe Calculadora com membros de instância
+- [**v0.3**][3] — Classe Calculadora com membros estáticos
 
 ## Objetivo Educacional
 
@@ -47,3 +48,5 @@ Este projeto **não tem como foco a solução final perfeita**, mas sim o proces
 [1]: https://github.com/jspneto/csharp-estudos-circunferencia-e-volume-de-uma-esfera/tree/v0.1/CircunferenciaVolumeEsfera "v0.1"
 
 [2]: https://github.com/jspneto/csharp-estudos-circunferencia-e-volume-de-uma-esfera/tree/v0.2/CircunferenciaVolumeEsfera "v0.2"
+
+[3]: https://github.com/jspneto/csharp-estudos-circunferencia-e-volume-de-uma-esfera/tree/v0.3/CircunferenciaVolumeEsfera "v0.3"
