@@ -1,6 +1,6 @@
-# Nome Do Projeto
+# Circunferência e Volume de Uma Esfera
 
-**descrição resumida do projeto**
+Programa que lê um valor numérico correspondente ao raio e calcula o comprimento da circunferência e o volume da esfera com base nesse valor.
 
 Este projeto foi desenvolvido de forma incremental, registrando a evolução do código em uma abordagem **orientada a objetos**.
 
@@ -15,14 +15,20 @@ Este projeto foi desenvolvido de forma incremental, registrando a evolução do 
 
 ## Enunciado do Problema
 
-**descrição detalhada do problema resolvido no projeto**
+O programa deve ler um valor numérico correspondente ao raio de uma figura geométrica.
+
+A partir desse valor, deve calcular:
+- O comprimento da circunferência
+- O volume da esfera
+
+Além disso, o programa deve informar o valor de PI utilizado nos cálculos, exibindo-o com duas casas decimais.
 
 ## Estrutura do Projeto
 
 ```bash
-|- NomeProjeto
-   |- NomeProjeto.csproj
-   |- NomeProjeto.sln
+|- CircunferenciaVolumeEsfera
+   |- CircunferenciaVolumeEsfera.csproj
+   |- CircunferenciaVolumeEsfera.sln
    |- Program.cs
 ```
 
@@ -34,5 +40,4 @@ Este projeto foi desenvolvido de forma incremental, registrando a evolução do 
 
 ## Objetivo Educacional
 
-Este projeto **não tem como foco a solução final perfeita**, mas sim o processo de
-aprendizado e a comparação entre abordagens diferentes para o mesmo problema.
+Este projeto **não tem como foco a solução final perfeita**, mas sim o processo de aprendizado e a comparação entre abordagens diferentes para o mesmo problema.
